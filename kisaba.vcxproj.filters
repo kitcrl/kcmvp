@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="m">
+      <UniqueIdentifier>{eda70541-fb44-471f-84ad-b49ab676773a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="c">
+      <UniqueIdentifier>{6108ac11-46ec-4cdf-af77-00f3948465b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="m\kisa_key.h">
+      <Filter>m</Filter>
+    </ClInclude>
+    <ClInclude Include="m\util.h">
+      <Filter>m</Filter>
+    </ClInclude>
+    <ClInclude Include="c\_xcrypt.h">
+      <Filter>c</Filter>
+    </ClInclude>
+    <ClInclude Include="c\cAria.h">
+      <Filter>c</Filter>
+    </ClInclude>
+    <ClInclude Include="c\cHight.h">
+      <Filter>c</Filter>
+    </ClInclude>
+    <ClInclude Include="c\cLea.h">
+      <Filter>c</Filter>
+    </ClInclude>
+    <ClInclude Include="c\cLsh256.h">
+      <Filter>c</Filter>
+    </ClInclude>
+    <ClInclude Include="c\cLsh512.h">
+      <Filter>c</Filter>
+    </ClInclude>
+    <ClInclude Include="c\cSeed.h">
+      <Filter>c</Filter>
+    </ClInclude>
+    <ClInclude Include="c\ctrdrbg.h">
+      <Filter>c</Filter>
+    </ClInclude>
+    <ClInclude Include="c\cUtil.h">
+      <Filter>c</Filter>
+    </ClInclude>
+    <ClInclude Include="c\pbkdf.h">
+      <Filter>c</Filter>
+    </ClInclude>
+    <ClInclude Include="c\sha256.h">
+      <Filter>c</Filter>
+    </ClInclude>
+    <ClInclude Include="c\sifrkiterr.h">
+      <Filter>c</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="m\m.c">
+      <Filter>m</Filter>
+    </ClCompile>
+    <ClCompile Include="m\util.c">
+      <Filter>m</Filter>
+    </ClCompile>
+    <ClCompile Include="c\cAria.c">
+      <Filter>c</Filter>
+    </ClCompile>
+    <ClCompile Include="c\cHight.c">
+      <Filter>c</Filter>
+    </ClCompile>
+    <ClCompile Include="c\cLea.c">
+      <Filter>c</Filter>
+    </ClCompile>
+    <ClCompile Include="c\cLsh256.c">
+      <Filter>c</Filter>
+    </ClCompile>
+    <ClCompile Include="c\cLsh512.c">
+      <Filter>c</Filter>
+    </ClCompile>
+    <ClCompile Include="c\cSeed.c">
+      <Filter>c</Filter>
+    </ClCompile>
+    <ClCompile Include="c\ctrdrbg.c">
+      <Filter>c</Filter>
+    </ClCompile>
+    <ClCompile Include="c\cUtil.c">
+      <Filter>c</Filter>
+    </ClCompile>
+    <ClCompile Include="c\pbkdf.c">
+      <Filter>c</Filter>
+    </ClCompile>
+    <ClCompile Include="c\sha256.c">
+      <Filter>c</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
