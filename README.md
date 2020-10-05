@@ -1,6 +1,4 @@
-# kisaba
-
-KISA Block Cipher Algorithms
+# KBCA  (KISA Block Cipher Algorithms)
 
 한국형 블럭 암호 알고리즘을 구현합니다.
 
